@@ -1,0 +1,19 @@
+# Maven
+target/
+
+# VS Code
+.vscode/
+
+# Cache
+cache/
+crawler-cache/
+
+# Java
+*.class
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
